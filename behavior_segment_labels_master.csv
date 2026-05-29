@@ -1,0 +1,120 @@
+video_id,start_frame,end_frame,segment_label,coarse_label,notes
+video_01,0,70,calm,calm,vehicle/road context; low movement
+video_01,71,120,alert,aggressive,head lift; attention toward road and vehicle
+video_01,121,180,approach,aggressive,forward movement begins
+video_01,181,250,charge,aggressive,fast rush toward road side
+video_01,251,320,threat,aggressive,close interaction; sustained confrontation
+video_01,321,420,recovery,calm,slowing down after the event
+video_02,0,70,calm,calm,standing and assessing the human
+video_02,71,130,alert,aggressive,face-off posture; ears open
+video_02,131,200,approach,aggressive,forward step toward guide
+video_02,201,270,threat,aggressive,stare and body orientation
+video_02,271,350,charge,aggressive,aggressive forward motion
+video_02,351,450,recovery,calm,post-event reduced motion
+video_03,0,120,calm,calm,far background; slow browsing and low motion
+video_03,121,185,alert,aggressive,head up; attention shift toward road; preparing to approach
+video_03,186,245,approach,aggressive,slow forward movement from brush to road
+video_03,246,330,charge,aggressive,ears spread; dust visible; direct forward rush
+video_03,331,430,charge,aggressive,sustained fast approach on road toward camera
+video_03,431,560,charge,aggressive,continued aggressive forward motion; close approach
+video_03,561,705,threat,aggressive,very near camera; sustained threat posture and movement
+video_03,706,775,recovery,calm,elephant exits / motion settles after charge
+video_04,0,90,stand,calm,elephant standing near building; low locomotion
+video_04,91,170,browse,calm,small posture shifts; scanning area
+video_04,171,250,look,calm,brief head turns / environmental assessment
+video_04,251,330,walk,calm,slow movement near structure
+video_04,331,420,browse,calm,calm body language and low speed
+video_04,421,520,stand,calm,stationary / relaxed finish
+video_05,0,80,calm,calm,elephant at distance; low movement
+video_05,81,140,alert,aggressive,people nearby; attention shifts
+video_05,141,220,approach,aggressive,forward movement toward humans
+video_05,221,300,threat,aggressive,raised posture; direct confrontation
+video_05,301,380,charge,aggressive,rapid aggressive advance
+video_05,381,460,recovery,calm,slowing after interaction
+video_06,0,110,browse,calm,foraging behavior in open ground
+video_06,111,180,walk,calm,normal locomotion with no threat display
+video_06,181,250,browse,calm,small dog nearby; elephant remains mostly calm
+video_06,251,330,look,calm,attention shift without clear aggression
+video_06,331,420,browse,calm,continued relaxed feeding / standing
+video_06,421,520,calm,calm,overall calm end segment
+video_07,0,100,calm,calm,night-time movement near house; low motion
+video_07,101,170,alert,aggressive,attention toward scene / house area
+video_07,171,240,approach,aggressive,forward stepping closer
+video_07,241,320,threat,aggressive,close presence near structure
+video_07,321,400,recovery,calm,motion decreases after approach
+video_07,401,480,calm,calm,settled finish
+video_08,0,100,calm,calm,elephant in forest edge; low-speed movement
+video_08,101,180,walk,calm,slow travel across clearing
+video_08,181,260,browse,calm,non-threatening movement in vegetation
+video_08,261,340,look,calm,brief orientation changes
+video_08,341,420,walk,calm,roadside walking continues
+video_08,421,520,calm,calm,calm exit / no charge displayed
+video_09,0,90,calm,calm,forest movement before conflict
+video_09,91,150,alert,aggressive,human presence; attention rises
+video_09,151,230,approach,aggressive,forward movement through brush
+video_09,231,310,threat,aggressive,close-range confrontation posture
+video_09,311,390,charge,aggressive,rapid aggressive motion
+video_09,391,470,recovery,calm,pressure eases; motion settles
+video_10,0,90,calm,calm,roadside scene before conflict
+video_10,91,160,alert,aggressive,crowd and vehicle context; attention shift
+video_10,161,240,approach,aggressive,elephant moves toward road users
+video_10,241,320,charge,aggressive,aggressive advance near traffic
+video_10,321,400,threat,aggressive,close confrontation / blocking road
+video_10,401,500,recovery,calm,slowing after the event
+video_11,0,90,calm,calm,road approach from distance
+video_11,91,160,alert,aggressive,attention rises; movement becomes purposeful
+video_11,161,240,approach,aggressive,forward motion on road
+video_11,241,320,charge,aggressive,sudden fast advance
+video_11,321,410,threat,aggressive,close aggressive presence
+video_11,411,500,recovery,calm,elephant slows and moves away
+video_12,0,80,calm,calm,roadside traffic scene before conflict
+video_12,81,150,alert,aggressive,attention toward vehicles / road block
+video_12,151,230,approach,aggressive,forward motion toward scooter/vehicle
+video_12,231,310,charge,aggressive,aggressive push into roadway
+video_12,311,390,threat,aggressive,close-range confrontation posture
+video_12,391,470,recovery,calm,interaction settles down
+video_13,0,70,calm,calm,approach to parked vehicle area
+video_13,71,130,alert,aggressive,body oriented toward car / target
+video_13,131,210,approach,aggressive,forward movement to vehicle
+video_13,211,290,charge,aggressive,aggressive contact / damage phase
+video_13,291,380,threat,aggressive,continued menace near car
+video_13,381,470,recovery,calm,slowing after contact
+video_14,0,80,calm,calm,road context from vehicle view
+video_14,81,150,alert,aggressive,elephant closes distance on road
+video_14,151,230,approach,aggressive,purposeful forward movement
+video_14,231,310,charge,aggressive,rapid advance toward vehicle
+video_14,311,390,threat,aggressive,close aggressive presence
+video_14,391,470,recovery,calm,post-charge slowing
+video_15,0,90,calm,calm,far road context; initial calm approach
+video_15,91,150,alert,aggressive,sudden change in direction / focus
+video_15,151,230,approach,aggressive,forward motion increases
+video_15,231,310,charge,aggressive,elephant charges toward camera
+video_15,311,390,threat,aggressive,close aggressive posture
+video_15,391,470,recovery,calm,motion settles after charge
+video_16,0,70,calm,calm,guide present; elephant stands in brush
+video_16,71,140,alert,aggressive,ears open; face-off begins
+video_16,141,220,approach,aggressive,forward motion toward guide
+video_16,221,300,threat,aggressive,stare and frontal presence
+video_16,301,380,charge,aggressive,strong aggressive advance
+video_16,381,460,recovery,calm,reduced motion / settling
+video_17,0,80,calm,calm,frontal view; controlled movement
+video_17,81,150,alert,aggressive,head-on attention and posture shift
+video_17,151,230,threat,aggressive,ears open; direct facing
+video_17,231,300,approach,aggressive,slight forward motion / confrontation
+video_17,301,380,recovery,calm,retreat or calming after face-off
+video_17,381,470,calm,calm,final calmer phase
+video_18,0,120,browse,calm,foraging with vegetation in mouth
+video_18,121,210,browse,calm,continued feeding / low-speed motion
+video_18,211,300,walk,calm,slow relocation within area
+video_18,301,390,browse,calm,relaxed feeding posture
+video_18,391,470,stand,calm,stationary calm finish
+video_19,0,120,browse,calm,close-up browsing / feeding
+video_19,121,220,browse,calm,steady calm feeding
+video_19,221,320,stand,calm,low motion; relaxed posture
+video_19,321,420,browse,calm,continued calm feeding
+video_19,421,520,calm,calm,calm end segment
+video_20,0,120,walk,calm,grassland walking / dust movement
+video_20,121,220,walk,calm,steady low-intensity locomotion
+video_20,221,320,calm,calm,no clear aggression displayed
+video_20,321,420,walk,calm,continued slow movement
+video_20,421,520,calm,calm,final calm exit
